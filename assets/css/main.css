@@ -2427,6 +2427,7 @@
 				background-color: rgba(0, 0, 0, 0.35);
 			}
 
+			/** CHANGE THE COLOR OF THE FUN FACT ICONS OVER HERE**/
 			.features li:before {
 				display: block;
 				color: #00ffcc;
